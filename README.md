@@ -26,4 +26,4 @@ To extract a file, check the **Extract** Radiobutton and browse for a divANS fil
 Enjoy!
 --------------------
 
-divANS repo: [https://github.com/dropbox/divans(https://github.com/dropbox/divans
+divANS repo: [https://github.com/dropbox/divans(https://github.com/dropbox/divans](https://github.com/dropbox/divans(https://github.com/dropbox/divans)
