@@ -46,8 +46,10 @@
     Private Sub UpdateElementsInForm()
         If CompressRButton.Checked Then
             InputFileMessage.Text = CompressInputMessage
+            OutputFileMessage.Text = CompressOutputMessage
         ElseIf ExtractRButton.Checked Then
             InputFileMessage.Text = ExtractInputMessage
+            OutputFileMessage.Text = ExtractOutputMessage
         End If
         AboutLabel.Text = AboutString
         ActionGroupBox.Text = ActionGroupBoxString
