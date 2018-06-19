@@ -211,7 +211,7 @@
     Public Sub ProcessFiles(Folder As String, Action As String)
         For Each File In IO.Directory.GetFiles(Folder)
             If ExtractRButton.Checked Then
-                If IO.Path.GetExtension(File).Contains("cmix") Then
+                If IO.Path.GetExtension(File).Contains("divans") Then
                     GetInputNameAndUpdateForm(File)
                     Run_divans(File, OutputFileTxt.Text, Action)
                 End If
