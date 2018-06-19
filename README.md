@@ -11,10 +11,10 @@ Software written with Visual Studio 2017 in the Visual Basic .NET language
 # Screenshot
 
 English GUI Screenshot:  
-![GUI Screenshot](https://ipfs.steem.place/ipfs/QmbdovkC8cAWRphfUkdB4VccHSN8JBA4RRJo2esgZABoH7)
+![GUI Screenshot](https://ipfs.steem.place/ipfs/QmfAVkAh8QT8DbTvz4kgdUszQ6iKik5KEotivK6wtPUUiK)
 
 Spanish GUI Screenshot:  
-![GUI Screenshot](https://ipfs.steem.place/ipfs/QmUKR55qdY944wCyDfS8CB8fcWJCSBB9HbwpMmSwtoTvQL)
+![GUI Screenshot](https://ipfs.steem.place/ipfs/Qmdc8H6xkeTtW297s5b71RDvNBYMNcmk97JrXy7xAdmcjH)
 
 # How to use?
 Simply, go to the release section and download the latest version. Then, execute **divans_gui.exe**.
