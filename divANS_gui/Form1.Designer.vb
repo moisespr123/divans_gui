@@ -131,16 +131,16 @@ Partial Class Form1
         '
         Me.BrowseFileButton.Location = New System.Drawing.Point(216, 91)
         Me.BrowseFileButton.Name = "BrowseFileButton"
-        Me.BrowseFileButton.Size = New System.Drawing.Size(75, 23)
+        Me.BrowseFileButton.Size = New System.Drawing.Size(88, 23)
         Me.BrowseFileButton.TabIndex = 5
         Me.BrowseFileButton.Text = "Browse File"
         Me.BrowseFileButton.UseVisualStyleBackColor = true
         '
         'BrowseFolderButton
         '
-        Me.BrowseFolderButton.Location = New System.Drawing.Point(297, 91)
+        Me.BrowseFolderButton.Location = New System.Drawing.Point(309, 91)
         Me.BrowseFolderButton.Name = "BrowseFolderButton"
-        Me.BrowseFolderButton.Size = New System.Drawing.Size(75, 23)
+        Me.BrowseFolderButton.Size = New System.Drawing.Size(104, 23)
         Me.BrowseFolderButton.TabIndex = 6
         Me.BrowseFolderButton.Text = "Browse Folder"
         Me.BrowseFolderButton.UseVisualStyleBackColor = true
@@ -149,9 +149,9 @@ Partial Class Form1
         '
         Me.BrowseFile2Button.Location = New System.Drawing.Point(216, 140)
         Me.BrowseFile2Button.Name = "BrowseFile2Button"
-        Me.BrowseFile2Button.Size = New System.Drawing.Size(75, 23)
+        Me.BrowseFile2Button.Size = New System.Drawing.Size(88, 23)
         Me.BrowseFile2Button.TabIndex = 9
-        Me.BrowseFile2Button.Text = "Browse File"
+        Me.BrowseFile2Button.Text = "Browse"
         Me.BrowseFile2Button.UseVisualStyleBackColor = true
         '
         'OutputFileTxt
@@ -175,7 +175,7 @@ Partial Class Form1
         Me.StartButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 24!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0,Byte))
         Me.StartButton.Location = New System.Drawing.Point(12, 178)
         Me.StartButton.Name = "StartButton"
-        Me.StartButton.Size = New System.Drawing.Size(360, 40)
+        Me.StartButton.Size = New System.Drawing.Size(394, 40)
         Me.StartButton.TabIndex = 10
         Me.StartButton.Text = "Start!"
         Me.StartButton.UseVisualStyleBackColor = true
@@ -196,7 +196,7 @@ Partial Class Form1
         'VersionLabel
         '
         Me.VersionLabel.AutoSize = true
-        Me.VersionLabel.Location = New System.Drawing.Point(344, 225)
+        Me.VersionLabel.Location = New System.Drawing.Point(378, 225)
         Me.VersionLabel.Name = "VersionLabel"
         Me.VersionLabel.Size = New System.Drawing.Size(28, 13)
         Me.VersionLabel.TabIndex = 12
@@ -207,7 +207,7 @@ Partial Class Form1
         Me.AllowDrop = true
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6!, 13!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(386, 247)
+        Me.ClientSize = New System.Drawing.Size(425, 247)
         Me.Controls.Add(Me.VersionLabel)
         Me.Controls.Add(Me.AboutLabel)
         Me.Controls.Add(Me.StartButton)
