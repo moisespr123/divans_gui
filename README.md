@@ -21,7 +21,7 @@ Simply, go to the release section and download the latest version. Then, execute
 
 To compress a file, check the **Compress** Radiobutton and browse for an input file or folder. The Output path will be initially set if you chose a file. You can browse for a different locations. For folders, the files are stored at the same path.
 
-To extract a file, check the *Extract** Radiobutton and browse for a divANS file. The Output path will be initially set if you chose a file. If you chose a folder, the files will be extracted at the same location as the input file.
+To extract a file, check the **Extract** Radiobutton and browse for a divANS file. The Output path will be initially set if you chose a file. If you chose a folder, the files will be extracted at the same location as the input file.
 
 Enjoy!
 --------------------
