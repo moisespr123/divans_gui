@@ -4,9 +4,11 @@ divans_gui is a Front-end for Dropbox's [divANS compression program](https://git
 
 When compressing folders, it actually compresses each file individually and stores it in the same location of the original file.
 
-Released under the GPL 2.0 license. Feel free to tweak with this GUI!
+GUI is released under the GPL 2.0 license. Feel free to tweak with this GUI!
 
-Software written with Visual Studio 2017 in the Visual Basic .NET language
+Written with Visual Studio 2017 in the Visual Basic .NET language
+
+divANS is released using the Apache 2.0 license.
 
 # Screenshot
 
